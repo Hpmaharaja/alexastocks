@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Hpmaharaja/alexastocks/issues"
   },
-  "homepage": "https://github.com/Hpmaharaja/alexastocks#readme"
+  "homepage": "https://github.com/Hpmaharaja/alexastocks#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
